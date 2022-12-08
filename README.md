@@ -3,10 +3,10 @@ I found relations between data feaures I used this correlation to predict the pr
 and make decisions based on insights extracted from the dataset to improve the supermarket situation in the market.
 Here is some insights
 
-Branch A is the most visited branch of all three
+                                    Branch A is the most visited branch of all three
 ![Picture1](https://user-images.githubusercontent.com/72300348/206429138-ba5b0998-d7a1-4eb8-88c3-c01f1f2f2fd9.png)
 
-The supermarket is most popular in Yangon
+                                    The supermarket is most popular in Yangon
 ![Picture2](https://user-images.githubusercontent.com/72300348/206429288-f1e68ee0-a221-43ba-aa0d-0702741eb229.png)
 
 Fashion products are the most purchased
@@ -24,4 +24,4 @@ Can we predict the Gross Income knowing the Unit price of product?
 I identified our dataset into training and testing, And then applied machine learning techniques on this data. 
 ![Picture7](https://user-images.githubusercontent.com/72300348/206430682-3a42ee18-9411-4d1b-9d9e-3dace915f774.png)
 
-now based on the pattern of products sales we can pridect the gross income
+                     now based on the pattern of products sales we can pridect the gross income
