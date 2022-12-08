@@ -9,7 +9,8 @@ Here is some insights
                                     The supermarket is most popular in Yangon
 ![Picture2](https://user-images.githubusercontent.com/72300348/206429288-f1e68ee0-a221-43ba-aa0d-0702741eb229.png)
 
-Fashion products are the most purchased
+
+                                    Fashion products are the most purchased
 ![Picture3](https://user-images.githubusercontent.com/72300348/206429381-f6098819-43c1-4eef-a093-22e8dd3ba25b.png)
 
                                  E-wallet payment method is the most used by costumers 
