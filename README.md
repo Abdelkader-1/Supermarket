@@ -12,16 +12,16 @@ The supermarket is most popular in Yangon
 Fashion products are the most purchased
 ![Picture3](https://user-images.githubusercontent.com/72300348/206429381-f6098819-43c1-4eef-a093-22e8dd3ba25b.png)
 
-E-wallet payment method is the most used by costumers 
+                                 E-wallet payment method is the most used by costumers 
 ![Picture4](https://user-images.githubusercontent.com/72300348/206429519-88edd94e-2d9b-4bec-900c-81895acd3bec.jpg)
 
-Member customers are the most visiting but both percentages are not very far from each other
+              Member customers are the most visiting but both percentages are not very far from each other
 ![Picture6](https://user-images.githubusercontent.com/72300348/206430343-04d7d10a-26ff-474b-92fa-b5b5feb916b2.jpg)
 
 
 Can we predict the Gross Income knowing the Unit price of product? 
-I identified our dataset into training and testing  
-And then applied machine learning techniques on this data. 
+
+I identified our dataset into training and testing, And then applied machine learning techniques on this data. 
 ![Picture7](https://user-images.githubusercontent.com/72300348/206430682-3a42ee18-9411-4d1b-9d9e-3dace915f774.png)
 
 now based on the pattern of products sales we can pridect the gross income
